@@ -45,6 +45,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-/gapminder
-/newyork
-/resources
+resources/daily_engagement_full.csv

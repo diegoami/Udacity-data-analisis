@@ -22,7 +22,7 @@ if True:
 # Find second largest value in each group
 if True:
     def second_largest(xs):
-        sorted_xs = xs.sort(inplace=False, ascending=False)
+        sorted_xs = xs.sort_values(inplace=False, ascending=False)
         return sorted_xs.iloc[1]
 
 
